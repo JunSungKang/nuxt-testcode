@@ -20,6 +20,22 @@ yarn install
 bun install
 ```
 
+## Code Unit Test
+
+```bash
+# npm
+npm run test
+
+# pnpm
+pnpm run test
+
+# yarn
+yarn test
+
+# bun
+bun run test
+```
+
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
